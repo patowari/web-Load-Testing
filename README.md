@@ -3,6 +3,7 @@
 A practical, contributor-friendly load testing project built with [k6](https://k6.io/).
 
 This repository helps teams and individuals validate reliability, performance, and scalability with realistic traffic patterns, measurable thresholds, and clear pass/fail outcomes.
+<img width="846" height="536" alt="image" src="https://github.com/user-attachments/assets/1fcca609-1c9e-4f00-acf0-b749e59bccbb" />
 
 ## Goals
 
