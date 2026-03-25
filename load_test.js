@@ -64,7 +64,7 @@ export const options = {
 };
 
 // ─── Base URL ────────────────────────────────────────────────
-const BASE_URL = 'https://srs-renal-care.base44.app';
+const BASE_URL = 'https://your-web.com';
 
 // ─── Common Headers ───────────────────────────────────────────
 const HTML_HEADERS = {
